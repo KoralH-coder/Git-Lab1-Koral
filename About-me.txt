@@ -2,3 +2,4 @@ Name: Koral Hanukaev
 Program: IT Software Development
 Favorite technology: not sure
 Favorite food: Fettuccine alfredo
+[Insert cool fact]

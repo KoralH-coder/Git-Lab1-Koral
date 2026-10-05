@@ -2,7 +2,7 @@
 
 2\. What and where changes were made in each file.
 
-3\. To go back a version of a file and remove any unwanted changes.
+3\. 
 
 4\. 
 

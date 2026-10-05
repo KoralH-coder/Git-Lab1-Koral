@@ -2,5 +2,3 @@ Learn Git
 Use GitHub
 Manage versions
 [Insert new goal]
-
-[THIS LINE WAS ADDED BY MISTAKE]
